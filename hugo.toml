@@ -5,4 +5,4 @@ theme = "terminal"
 
 [params]
   # Theme color options: orange, blue, red, green, pink
-  themeColor = "green"
+  themeColor = "red"
