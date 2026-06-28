@@ -1,8 +1,0 @@
-baseURL = "https://eideinadnauseam.github.io/"
-languageCode = "en-us"
-title = "My Terminal Site"
-theme = "terminal"
-
-[params]
-  # Theme color options: orange, blue, red, green, pink
-  themeColor = "red"
